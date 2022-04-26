@@ -5,5 +5,5 @@ Most of BST operations (e.g: insert, search, delete) take O(h) time where h is t
 
 A red black tree is a balanced BST where time complexity of all operations doesn't exceed O(lgn).
 
-Applied on a dictionary, it is used to insert new words more efficiently that ordinary BSTs due to its properties that keep it balanced.
+Applied on a dictionary, it is used to insert new words more efficiently than ordinary BSTs due to its properties that keep it balanced.
 After each insertion, the height and size of the modified RB tree are asserted.
